@@ -5,11 +5,12 @@
   "license": "MIT",
   "dependencies": {
     "qtumjs": "^1.8.1",
+    "qtumjs-lib": "^0.0.7",
     "qtumjs-wallet": "^0.0.6"
   },
   "scripts": {
-    "generate-wallet":"node js/wallet.js",
-    "send-transaction":"node js/sendtransaction.js",
-    "invoke-smartcontract":"node js/smartcontract.js"
+    "generate-wallet": "node js/wallet.js",
+    "send-transaction": "node js/sendtransaction.js",
+    "invoke-smartcontract": "node js/smartcontract.js"
   }
 }

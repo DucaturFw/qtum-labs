@@ -241,6 +241,15 @@ qtumjs-lib@^0.0.6:
     qtum-opcodes "^1.0.0"
     safe-buffer "^5.1.1"
 
+qtumjs-lib@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/qtumjs-lib/-/qtumjs-lib-0.0.7.tgz#cf8e789313baa71a247a78cb22ae287254ca8c18"
+  dependencies:
+    bignumber.js "^4.1.0"
+    bitcoinjs-lib "^3.3.2"
+    qtum-opcodes "^1.0.0"
+    safe-buffer "^5.1.1"
+
 qtumjs-wallet@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/qtumjs-wallet/-/qtumjs-wallet-0.0.6.tgz#3749e98755678500f35e45ff7ecf088b719a62c3"

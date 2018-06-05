@@ -3,7 +3,7 @@
 
 async function main() {
     //Генерация адреса для testnet
-    const network = qtum.networks.testnet 
+    const network = qtum.networks.mainnet
  // const network = qtum.networks.mainnet 
   const mnemonic = qtum.generateMnemonic()
   const password = "covfefe"
